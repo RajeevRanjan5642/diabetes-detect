@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Rajeev Ranjan
+Author : Rajeev Ranjan
 
 Diabetes-Predictive-System
 """
