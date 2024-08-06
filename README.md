@@ -39,7 +39,7 @@ The app will be opened in your browser.
 # Output 🌟
 The app will display one of the following messages:
 - Diabetic
-- Non-Diabetic
+- Non Diabetic
   
 # Preview
 ![output](https://github.com/RajeevRanjan5642/diabetes-prediction/blob/main/images/output.png)
