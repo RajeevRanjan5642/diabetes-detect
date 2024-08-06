@@ -42,4 +42,4 @@ The app will display one of the following messages:
 - Non Diabetic
   
 # Preview 👀
-![output](https://github.com/RajeevRanjan5642/diabetes-prediction/blob/main/images/output.png)
+![output](https://github.com/RajeevRanjan5642/Diabetes-Detect/blob/main/images/preview.png)
