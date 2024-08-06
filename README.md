@@ -41,5 +41,5 @@ The app will display one of the following messages:
 - Diabetic
 - Non Diabetic
   
-# Preview
+# Preview 👀
 ![output](https://github.com/RajeevRanjan5642/diabetes-prediction/blob/main/images/output.png)
