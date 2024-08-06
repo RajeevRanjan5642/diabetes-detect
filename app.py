@@ -6,12 +6,11 @@ Diabetes-Predictive-System
 """
 
 # import all libraries
-import numpy as np
 import pickle
 import streamlit as st
 
 # loading the saved model
-diabetes_model = pickle.load(open('C:/Users/ragha/OneDrive/Desktop/diabetes-prediction/diabetes_model.sav','rb'))
+diabetes_model = pickle.load(open('./model/diabetes_model.pkl','rb'))
 
 # creating a function for prediction
 def diabetes_prediction(input_data):
@@ -26,7 +25,7 @@ def diabetes_prediction(input_data):
     
 def main():
     
-    st.title('Diabetes Prediction Web App')
+    st.title('Diabetes-Detect')
     
     # Getting input from the user
     Pregnancies = st.text_input('Pregnancies:')
