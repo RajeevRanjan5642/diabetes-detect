@@ -40,6 +40,9 @@ The app will be opened in your browser.
 The app will display one of the following messages:
 - Diabetic
 - Non Diabetic
+
+## ⚙️ Deployment
+🔗 https://diabetes-detect-app.streamlit.app/
   
 ## 👀 Project Demo 
 [diabetes_detect.webm](https://github.com/user-attachments/assets/b99b46f7-ba3a-4156-9752-c3420190f626)
