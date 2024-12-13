@@ -1,4 +1,4 @@
-![banner](https://github.com/RajeevRanjan5642/diabetes-prediction/blob/main/images/banner.png)
+![banner](https://github.com/user-attachments/assets/1d91e8e0-45a7-4d9d-9f7b-ac9e19ea6e1b)
 # Diabetes-Detect
 ## 🔍 Overview 
 Diabetes-Detect is a web application that predicts the probability of a patient having diabetes based on some diagnostic measurements. This app is intended for females of age at least 21 years.
