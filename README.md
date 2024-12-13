@@ -41,5 +41,5 @@ The app will display one of the following messages:
 - Diabetic
 - Non Diabetic
   
-## 👀 Preview 
-![output](https://github.com/RajeevRanjan5642/Diabetes-Detect/blob/main/images/preview.png)
+## 👀 Project Demo 
+https://github.com/user-attachments/assets/2d530fee-fae4-458e-9883-70a3e93beb54
