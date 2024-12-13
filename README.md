@@ -42,4 +42,4 @@ The app will display one of the following messages:
 - Non Diabetic
   
 ## 👀 Project Demo 
-https://github.com/user-attachments/assets/2d530fee-fae4-458e-9883-70a3e93beb54
+[diabetes_detect.webm](https://github.com/user-attachments/assets/b99b46f7-ba3a-4156-9752-c3420190f626)
